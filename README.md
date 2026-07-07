@@ -28,12 +28,12 @@
 <div align="center">
 <img align="center" src="./img/title/aboutME.png" width="85%" alt="About me title" />
 </div><br>
-<img align="right" src="./img/fernandoDancing.gif" border="2" width="340px" height="200px" alt="Fernando Alonso dancing after a win" />
+<img align="right" src="./img/fernandoDancing.gif" width="300px" height="150px" alt="Fernando Alonso dancing after a win" />
 <br>
 <ul>
   <li>Ola, me chamo Derik, atualmete estou no 2 ano do ensino medio tecnico buscando minnha profissionalizacao como DBA.</li>
   <li> Gosto muito de jogos de corrida, metereologia e bater uma papo, se sinta livre para me chamar nas formas de contato abaixo ;) </li>
-  
+
   <li>Estudando atualmente:Java e Spring Boot</li>
 </ul>
 <br><br><br>
@@ -43,15 +43,12 @@
 <div align="center">
 <img align="center" src="./img/title/stack.png" width="85%" alt="My stack title section" />
 </div>
+<img align="left" width="250px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?quoteColor=303030&authorColor=7c5c2f&backgroundColor=dac49d&symbolColor=483523" />
 <table align="right" height="255px">
   <tr>
     <td align="center">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="Java icon"/><br/>
-        <sub>
-          <b>
-            <pre>Java</pre>
-          </b>
+        <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="Java icon"/><br/> <sub> <b> <pre>Java</pre> </b>
         </sub>
       </a>
     </td>
@@ -84,7 +81,6 @@
           </b>
         </sub>
       </a>
-    </td>
   </tr>
    <td align="center">
       <a href="">
@@ -198,6 +194,6 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DerikSz&bg_color=dac49d&color=212121&line=7c612a&point=403e26&area=true&hide_border=true" />
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
 </section>
