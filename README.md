@@ -27,12 +27,13 @@
 <hr>
 <div align="center">
 <img align="center" src="./img/title/aboutME.png" width="85%" alt="About me title" />
-</div>
+</div><br>
 <img align="right" src="./img/fernandoDancing.gif" border="2" width="340px" height="200px" alt="Fernando Alonso dancing after a win" />
+<br>
 <ul>
   <li>Ola, me chamo Derik, atualmete estou no 2 ano do ensino medio tecnico buscando minnha profissionalizacao como DBA.</li>
   <li> Gosto muito de jogos de corrida, metereologia e bater uma papo, se sinta livre para me chamar nas formas de contato abaixo ;) </li>
-  <br><br>
+  
   <li>Estudando atualmente:Java e Spring Boot</li>
 </ul>
 <br><br><br>
@@ -87,7 +88,7 @@
   </tr>
    <td align="center">
       <a href="">
-      <img src="" width="65px" alt="API rest icon"/><br/>
+      <img src="https://img.icons8.com/fluency/96/api.png" width="85px" alt="API rest icon"/><br/>
       <sub>
         <b>
           <pre>API rest</pre>
@@ -158,6 +159,7 @@
     </td>
   </tr>
 </table>
+<br>
 </section>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
@@ -165,8 +167,8 @@
 <section>
 <div align="center">
 <img align="center" src="./img/title/contact.png" width="85%" alt="Contact title" />
-</div>
-<img align="right" width="185px" src="./img/fernandoContact.gif" alt="Fernando Alonso smilling"/>
+</div> <br>
+<img align="right" width="150px" src="./img/fernandoContact.gif" alt="Fernando Alonso smilling"/>
 <br><br>
 <p align="center">
   <a href="mailto:deriksbatinga@gmail.com" target="_blank">
