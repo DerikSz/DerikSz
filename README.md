@@ -28,7 +28,7 @@
 <div align="center">
 <img align="center" src="./img/title/aboutME.png" width="85%" alt="About me title" />
 </div><br>
-<img align="right" src="./img/fernandoInterview.gif" width="280px" height="240px" alt="Fernando Alonso dancing after a win" />
+<img align="right" src="./img/fernandoInterview.gif" width="200px" height="160px" alt="Fernando Alonso dancing after a win" />
 <br>
 <ul>
   <li>Ola, me chamo Derik, atualmete estou no 2 ano do ensino medio tecnico buscando minnha profissionalizacao como DBA.</li>
