@@ -28,7 +28,7 @@
 <div align="center">
 <img align="center" src="./img/title/aboutME.png" width="85%" alt="About me title" />
 </div><br>
-<img align="right" src="./img/fernandoInterview.gif" width="200px" height="160px" alt="Fernando Alonso dancing after a win" />
+<img align="right" src="./img/fernandoInterview.gif" width="220px" height="180px" alt="Fernando Alonso dancing after a win" />
 <br>
 <ul>
   <li>Ola, me chamo Derik, atualmete estou no 2 ano do ensino medio tecnico buscando minnha profissionalizacao como DBA.</li>
@@ -46,7 +46,7 @@
 </div>
 <div align="center">
 <img align="left" width="250px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?quoteColor=303030&authorColor=7c5c2f&backgroundColor=dac49d&symbolColor=483523" />
-<table align="right" height="255px">
+<table align="right" height="350px">
   <tr>
     <td align="center">
       <a href="">
