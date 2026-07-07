@@ -21,30 +21,32 @@
 - Para criar a animação de ondas que utilizei no final do readme: https://svgwave.in;
 "
 -->
-
-<hr/>
-  <img align="center" width="100%" alt="Banner" src="./img/banner2.jpg" />
-
-<hr/>
-
-<img align="center" src="./titles/aboutMe.jpg" width="100%" alt="About me title" />
-<img align="right" src="./images/alonsoDancing.gif" border="2" width="372px" height="278px" alt="Fernando Alonso dancing after a win" />
+<section>
+<hr>
+  <img align="center" width="100%" alt="Banner" src="./img/title/banner2.jpg" />
+<hr>
+<div align="center">
+<img align="center" src="./img/title/aboutME.png" width="85%" alt="About me title" />
+</div>
+<img align="right" src="./img/fernandoDancing.gif" border="2" width="340px" height="200px" alt="Fernando Alonso dancing after a win" />
 <ul>
   <li>Ola, me chamo Derik, atualmete estou no 2 ano do ensino medio tecnico buscando minnha profissionalizacao como DBA.</li>
   <li> Gosto muito de jogos de corrida, metereologia e bater uma papo, se sinta livre para me chamar nas formas de contato abaixo ;) </li>
   <br><br>
   <li>Estudando atualmente:Java e Spring Boot</li>
 </ul>
-<br/><br/><br/>
+<br><br><br>
 <hr/>
-
-<img align="center" src="./titles/stack.jpg" width="100%" alt="My stack title section" />
-
+</section>
+<section>
+<div align="center">
+<img align="center" src="./img/title/stack.png" width="85%" alt="My stack title section" />
+</div>
 <table align="right" height="255px">
   <tr>
     <td align="center">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=java&theme=gruvbox_light" width="65px" alt="Java icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="Java icon"/><br/>
         <sub>
           <b>
             <pre>Java</pre>
@@ -156,36 +158,44 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr/>
+</section>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
 
-<img align="center" src="./titles/contact.jpg" width="100%" alt="Contact title" />
-<img align="right" width="185px" src="./images/alonsoContact.gif" alt="Garota trabalhando com programação"/>
-<br/><br/>
+<section>
+<div align="center">
+<img align="center" src="./img/title/contact.png" width="85%" alt="Contact title" />
+</div>
+<img align="right" width="185px" src="./img/fernandoContact.gif" alt="Fernando Alonso smilling"/>
+<br><br>
 <p align="center">
   <a href="mailto:deriksbatinga@gmail.com" target="_blank">
-    <img src="./icons/gmail.jpg" alt="Gmail icon" height="30px" />
+    <img src="./img/icon/gmail.jpeg" alt="Gmail icon" height="30px" />
     &nbsp;
   </a>
   <a href="https://www.linkedin.com/in/derikbatinga/" target="_blank">
-    <img src="./icons/linkedin.jpg" alt="LinkedIn icon" height="30px" />
+    <img src="./img/icon/linkedin.jpeg" alt="LinkedIn icon" height="30px" />
     &nbsp;
   </a>
   <a href="" target="_blank">
-    <img src="./icons/telegram.jpg" alt="Telegram icon" height="30px" />
+    <img src="./img/icon/telegram.jpeg" alt="Telegram icon" height="30px" />
     &nbsp;
   </a>
   <a href="" target="_blank">
-    <img src="./icons/discord.jpg" alt="Discord icon" height="30px" />
+    <img src="./img/icon/discord.jpeg" alt="Discord icon" height="30px" />
   </a>
 </p>
-<br/><br/>
+<br><br>
 
-
-<hr/>
-
-<img align="center" src="./titles/activity.png" width="100%" alt="Activity title" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DerikSz&bg_color=dac49d&color=212121&line=7c612a&point=403e26&area=true&hide_border=true" />
+<hr>
+</section>
+<section>
+<div align="center">
+<img align="center" src="./img/title/activity.png" width="85%" alt="Activity title" />
 </div>
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DerikSz&bg_color=dac49d&color=212121&line=7c612a&point=403e26&area=true&hide_border=true" />
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+</section>
