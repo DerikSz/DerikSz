@@ -46,7 +46,7 @@
 </div>
 <div align="center">
 <img align="left" width="250px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?quoteColor=303030&authorColor=7c5c2f&backgroundColor=dac49d&symbolColor=483523" />
-<table align="right" height="250px">
+<table align="right">
   <tr>
     <td align="center">
       <a href="">
@@ -160,7 +160,7 @@
 <br>
 </div>
 </section>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br clear="both">
 <hr>
 
 <section>
@@ -170,7 +170,7 @@
 <img align="left" width="30%" src="./img/fernandoCelebrating.jpeg" alt="Fernando Alonso smilling"/>
 
 
-<table height="200px" align="right">
+<table height="200px">
   <tr>
     <td>
     <a href="" target="_blank">
@@ -179,9 +179,8 @@
     </td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<hr/>
+<br clear="both">
+<hr>
 </section>
 
 <section>
