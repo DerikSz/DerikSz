@@ -105,7 +105,7 @@ CREDITOS AO USER "xCr-9" (criador desse estilo de README), utilizei grande parte
 
 <section>
   <div align="center">
-    <img align="center" src="./img/title/project.jpeg" width="88%" alt="Projects title" />
+    <img align="center" src="./img/title/project.jpeg" width="87%" alt="Projects title" />
   </div>
 
   <img align="left" width="30%" src="./img/fernandoCelebrating.jpeg" alt="Fernando Alonso smilling"/>
