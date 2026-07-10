@@ -48,31 +48,31 @@
 <table height="250px">
   <tr>
     <td align="center">
-      <a href="">
+      <a href="https://www.java.com/">
         <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="Java icon"/><br/>
         <sub><b><pre>Java</pre></b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://spring.io/">
         <img src="https://skillicons.dev/icons?i=spring&theme=light" width="65px" alt="Api Rest icon"/><br/>
         <sub><b><pre>Spring Boot</pre></b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://www.postgresql.org/">
         <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65px" alt="Postgres icon"/><br/>
         <sub><b><pre>Postgres (SQL)</pre></b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api">
         <img src="https://img.icons8.com/fluency/96/api.png" width="65px" alt="API rest icon"/><br/>
         <sub><b><pre>API rest</pre></b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://www.postman.com/">
         <img src="https://skillicons.dev/icons?i=postman&theme=light" width="65px" alt="Postman icon"/><br/>
         <sub><b><pre>Postman</pre></b></sub>
       </a>
@@ -86,7 +86,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://wikipedia.org/wiki/Linux">
         <img src="https://skillicons.dev/icons?i=idea&theme=light" width="65px" alt="IntelliJ icon"/><br/>
         <sub><b><pre>IntelliJ</pre></b></sub>
       </a>
@@ -111,7 +111,7 @@
 <table height="200px">
   <tr>
     <td>
-    <a href="" target="_blank">
+    <a href="https://github.com/DerikBatinga/FuturusCare" target="_blank">
       <img align="center" width="200px" src="./img/project/FuturusCare.png"/>
   </a>
     </td>
