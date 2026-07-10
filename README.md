@@ -46,7 +46,7 @@
 </div>
 <div align="center">
 <img align="left" width="250px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?quoteColor=303030&authorColor=7c5c2f&backgroundColor=dac49d&symbolColor=483523" />
-<table align="right" width="320" height="250px">
+<table align="right" height="250px">
   <tr>
     <td align="center">
       <a href="">
@@ -165,25 +165,46 @@
 
 <section>
 <div align="center">
+<img align="center" src="./img/title/project.jpeg" width="88%" alt="Projects title" />
+</div>
+<img align="left" width="30%" src="./img/fernandoCelebrating.jpeg" alt="Fernando Alonso smilling"/>
+
+
+<table height="200px" align="right">
+  <tr>
+    <td>
+    <a href="" target="_blank">
+      <img align="center" width="200px" src="./img/project/FuturusCare.png"/>
+  </a>
+    </td>
+  </tr>
+</table>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<hr/>
+</section>
+
+<section>
+<div align="center">
 <img align="center" src="./img/title/contact.png" width="85%" alt="Contact title" />
 </div> <br>
 <img align="right" width="150px" src="./img/fernandoContact.gif" alt="Fernando Alonso smilling"/>
 <br><br>
 <p align="center">
   <a href="mailto:deriksbatinga@gmail.com" target="_blank">
-    <img src="./img/icon/gmail.jpeg" alt="Gmail icon" height="30px" />
+    <img src="./img/icon/gmail.jpeg" alt="Gmail icon" height="40px" />
     &nbsp;
   </a>
   <a href="https://www.linkedin.com/in/derikbatinga/" target="_blank">
-    <img src="./img/icon/linkedin.jpeg" alt="LinkedIn icon" height="30px" />
+    <img src="./img/icon/linkedin.jpeg" alt="LinkedIn icon" height="40px" />
     &nbsp;
   </a>
-  <a href="" target="_blank">
-    <img src="./img/icon/telegram.jpeg" alt="Telegram icon" height="30px" />
+  <a href="https://t.me/derik_sz" target="_blank">
+    <img src="./img/icon/telegram.jpeg" alt="Telegram icon" height="40px" />
     &nbsp;
   </a>
-  <a href="" target="_blank">
-    <img src="./img/icon/discord.jpeg" alt="Discord icon" height="30px" />
+  <a href="https://discord.gg/zwEsujgSWN" target="_blank">
+    <img src="./img/icon/discord.jpeg" alt="Discord icon" height="40px" />
   </a>
 </p>
 <br><br>
