@@ -46,115 +46,56 @@
 </div>
 <div align="center">
 <img align="left" width="250px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?quoteColor=303030&authorColor=7c5c2f&backgroundColor=dac49d&symbolColor=483523" />
-<table height="250px" width="2000px">
+<table height="250px">
   <tr>
     <td align="center">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="Java icon"/><br/> <sub> <b> <pre>Java</pre> </b>
-        </sub>
+        <img src="https://skillicons.dev/icons?i=java&theme=light" width="65px" alt="Java icon"/><br/>
+        <sub><b><pre>Java</pre></b></sub>
       </a>
     </td>
-    <!-- <td align="center">
-      <a href="">
-        <img src="https://skillicons.dev/icons?i=python&theme=gruvbox_light" width="65px" alt="Python icon"/><br/>
-        <sub>
-          <b>                            NAO COMECEI A APRENDER AINDA!
-            <pre>Python</pre>
-          </b>
-        </sub>
-      </a>
-    </td> -->
     <td align="center">
       <a href="">
         <img src="https://skillicons.dev/icons?i=spring&theme=light" width="65px" alt="Api Rest icon"/><br/>
-        <sub>
-          <b>
-            <pre>Spring Boot</pre>
-          </b>
-        </sub>
+        <sub><b><pre>Spring Boot</pre></b></sub>
       </a>
     </td>
     <td align="center">
       <a href="">
         <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65px" alt="Postgres icon"/><br/>
-        <sub>
-          <b>
-            <pre>Postgres (SQL)</pre>
-          </b>
-        </sub>
+        <sub><b><pre>Postgres (SQL)</pre></b></sub>
       </a>
+    </td>
   </tr>
-   <td align="center">
+  <tr>
+    <td align="center">
       <a href="">
-      <img src="https://img.icons8.com/fluency/96/api.png" width="85px" alt="API rest icon"/><br/>
-      <sub>
-        <b>
-          <pre>API rest</pre>
-        </b>
-      </sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="">
-      <img src="https://skillicons.dev/icons?i=postman&theme=light" width="65px" alt="Postman icon"/><br/>
-      <sub>
-        <b>
-          <pre>Postman</pre>
-        </b>
-      </sub>
-      </a>
-    </td>
-    <tr>
-    <!-- <td align="center">
-      <a href="">
-        <img src="https://skillicons.dev/icons?i=aws&theme=light" width="65px" alt="AWS icon"/><br/>
-        <sub>
-          <b>                                 NAO COMECEI A APRENDER AINDA!
-            <pre>AWS</pre>
-          </b>                
-        </sub>
+        <img src="https://img.icons8.com/fluency/96/api.png" width="65px" alt="API rest icon"/><br/>
+        <sub><b><pre>API rest</pre></b></sub>
       </a>
     </td>
     <td align="center">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="60px" alt="Kubernetes icon"/><br/>
-        <sub>
-          <b>                                  NAO COMECEI A APRENDER AINDA!
-            <pre>Kubernetes</pre>
-          </b>
-        </sub>
+        <img src="https://skillicons.dev/icons?i=postman&theme=light" width="65px" alt="Postman icon"/><br/>
+        <sub><b><pre>Postman</pre></b></sub>
       </a>
-    </td> -->
-    <!-- <td align="center">
-      <a href="https://ohmyz.sh/">
-        <img src="https://skillicons.dev/icons?i=bash&theme=light" width="65px" alt="bash icon"/><br/>
-        <sub>
-          <b>                            NAO COMECEI A APRENDER AINDA!
-            <pre>Terminal</pre>
-          </b>
-        </sub>
-      </a>
-    </td> -->
+    </td>
     <td align="center">
       <a href="https://pop.system76.com/">
         <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65px" alt="Linux icon"/><br/>
-        <sub>
-          <b>
-            <pre>Linux</pre>
-          </b>
-        </sub>
+        <sub><b><pre>Linux</pre></b></sub>
       </a>
     </td>
-        <td align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="">
         <img src="https://skillicons.dev/icons?i=idea&theme=light" width="65px" alt="IntelliJ icon"/><br/>
-        <sub>
-          <b>
-            <pre>IntelliJ</pre>
-          </b>
-        </sub>
+        <sub><b><pre>IntelliJ</pre></b></sub>
       </a>
     </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 <br>
