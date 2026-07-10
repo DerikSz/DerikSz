@@ -170,7 +170,7 @@
 <img align="left" width="30%" src="./img/fernandoCelebrating.jpeg" alt="Fernando Alonso smilling"/>
 
 
-<table height="200px">
+<table align="right">
   <tr>
     <td>
     <a href="" target="_blank">
@@ -179,6 +179,7 @@
     </td>
   </tr>
 </table>
+
 <br clear="both">
 <hr>
 </section>
