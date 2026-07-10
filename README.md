@@ -34,7 +34,7 @@
   <li>Ola, me chamo Derik, atualmete estou no 2 ano do ensino medio tecnico buscando minnha profissionalizacao como DBA.</li>
   <li> Gosto muito de jogos de corrida, metereologia e bater uma papo, se sinta livre para me chamar nas formas de contato abaixo ;) </li>
 
-  <li>Estudando atualmente:Java e Spring Boot</li>
+  <li>Estudando atualmente:Java e Spring Boot com API Rest</li>
 </ul>
 <br><br><br>
 <hr/>
