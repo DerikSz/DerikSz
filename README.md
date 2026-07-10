@@ -46,7 +46,7 @@
 </div>
 <div align="center">
 <img align="left" width="250px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?quoteColor=303030&authorColor=7c5c2f&backgroundColor=dac49d&symbolColor=483523" />
-<table height="250px">
+<table height="250px" width="2000px">
   <tr>
     <td align="center">
       <a href="">
