@@ -65,8 +65,6 @@
         <sub><b><pre>Postgres (SQL)</pre></b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="">
         <img src="https://img.icons8.com/fluency/96/api.png" width="65px" alt="API rest icon"/><br/>
@@ -79,14 +77,14 @@
         <sub><b><pre>Postman</pre></b></sub>
       </a>
     </td>
+</tr>
+  <tr>
     <td align="center">
       <a href="https://pop.system76.com/">
         <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65px" alt="Linux icon"/><br/>
         <sub><b><pre>Linux</pre></b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="">
         <img src="https://skillicons.dev/icons?i=idea&theme=light" width="65px" alt="IntelliJ icon"/><br/>
